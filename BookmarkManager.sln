@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookmarkManager.Web", "BookmarkManager.Web\BookmarkManager.Web.csproj", "{C91A4E03-CC5C-4469-97D8-A9882D5B960B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookmarkManager.Data", "BookmarkManager.Data\BookmarkManager.Data.csproj", "{7DE7DD51-14A6-47EE-AB7B-65DCBED7305C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C91A4E03-CC5C-4469-97D8-A9882D5B960B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91A4E03-CC5C-4469-97D8-A9882D5B960B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91A4E03-CC5C-4469-97D8-A9882D5B960B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91A4E03-CC5C-4469-97D8-A9882D5B960B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE7DD51-14A6-47EE-AB7B-65DCBED7305C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE7DD51-14A6-47EE-AB7B-65DCBED7305C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE7DD51-14A6-47EE-AB7B-65DCBED7305C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE7DD51-14A6-47EE-AB7B-65DCBED7305C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
